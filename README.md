@@ -1,7 +1,10 @@
 # Titanic-Survival Prediction
 The survival status of individual passengers on the Titanic. The titanic data frame does not contain information from the crew, but it does contain actual ages of half of the passengers.
 i have used LOGISTIC REGRESSION to build the model...
+
+
 Variable	Definition	Key,
+
 survival	Survival	0 = No, 1 = Yes , 
 pclass	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd , 
 sex	Sex	,
@@ -18,9 +21,9 @@ Variable Notes,
 
 
 pclass: A proxy for socio-economic status (SES),
-1st = Upper
+1st = Upper.
 2nd = Middle
-3rd = Lower
+3rd = Lower.
 ,
 age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5,
 
