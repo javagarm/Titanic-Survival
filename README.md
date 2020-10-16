@@ -16,7 +16,7 @@ fare	Passenger fare	,
 cabin	Cabin number	,
 
 
-embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton,
+embarkedN	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton,
 Variable Notes,
 
 
