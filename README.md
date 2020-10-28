@@ -1,8 +1,8 @@
 # Titanic-Survival Prediction
 The survival status of individual passengers on the Titanic. The titanic data frame does not contain information from the crew, but it does contain actual ages of half of the passengers.
 i have used LOGISTIC REGRESSION to build the model...
-
-
+FOR MORE DETAILED EXPLAINATION OD EXPLAROTARY DATA ANALYSIS
+https://www.kaggle.com/javagarm/my-first-note-titanic-survival-prediction-eda
 Variable	Definition	Key,
 
 survival	Survival	0 = No, 1 = Yes , 
