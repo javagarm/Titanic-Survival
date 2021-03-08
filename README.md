@@ -13,7 +13,7 @@ parch	# of parents / children aboard the Titanic	,
 ticket	Ticket number	,
 fare	Passenger fare	,
 cabin	Cabin number	,
-
+https://github.com/javagarm/Titanic-Survival-Prediction/blob/master/photo_2020-09-01_03-24-24.jpg
 
 embarkedN	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton,
 Variable Notes,
