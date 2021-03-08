@@ -4,7 +4,6 @@ i have used LOGISTIC REGRESSION to build the model...
 FOR MORE DETAILED EXPLAINATION OD EXPLAROTARY DATA ANALYSIS
 https://www.kaggle.com/javagarm/my-first-note-titanic-survival-prediction-eda
 Variable	Definition	Key,
-
 survival	Survival	0 = No, 1 = Yes , 
 pclass	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd , 
 sex	Sex	,nb 
